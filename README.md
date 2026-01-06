@@ -25,9 +25,6 @@ Soy aprendiz de desarrollo de software, con mayor interés en el backend, aunque
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
 </div>
 
 <br clear="both">
@@ -38,6 +35,14 @@ Soy aprendiz de desarrollo de software, con mayor interés en el backend, aunque
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+</div>
+
+<h2 align="center">Herramientas</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+	 <img width="12" />
+	 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
 </div>
 
 <br clear="both">
