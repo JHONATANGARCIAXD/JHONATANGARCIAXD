@@ -4,7 +4,7 @@
 
 <h2 align="center">Sobre mí</h2>
 
-<h4 align="center">
+<h3 align="center">
 Soy aprendiz de desarrollo de software, con mayor interés en el backend, aunque también participo en tareas de frontend cuando es necesario. Me considero una persona colaborativa, responsable, adaptable y siempre en constante aprendizaje.
 </h4>
 
