@@ -51,9 +51,9 @@ Soy aprendiz de desarrollo de software, con mayor interés en el backend, aunque
 
 <div align="center"> 
 	<a href="https://mail.google.com/mail/?view=cm&to=jhonatansgomez.0311@gmail.com" target="_blank">
-		<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+		<img src="https://skillicons.dev/icons?i=gmail" width="40" />
 	</a>&nbsp;&nbsp;&nbsp; </a> 
 	<a href="https://wa.me/573124545587?text=Hola" target="_blank">
-		<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50" />
+		<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" />
 	</a> 
 </div>
